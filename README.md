@@ -22,4 +22,4 @@ In this game, players control a green square at the bottom of the screen to dodg
 - Swing (comes pre-installed with Java)
 
 ### Running the game
-go to this Website [here](https://synkfr.github.oi/Website)
+go to this Website [here](https://synkfr.github.oi/website/)
